@@ -22,6 +22,9 @@ parse_remote_iat.exe chrome.exe
 GetInstallDetailsPayload:  0x7ff9fbeedaf0
 IsBrowserProcess:  0x7ff9fbeead40
 SignalChromeElf:  0x7ff9fbeeabd0
+
+***
+***
 ```
 
 
