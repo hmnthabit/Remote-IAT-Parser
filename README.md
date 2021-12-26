@@ -1,4 +1,4 @@
-# Remote-IAT-Parser
+# Remote IAT Parser
 
 Parsing the Import Address Table (IAT) of a running process
 
