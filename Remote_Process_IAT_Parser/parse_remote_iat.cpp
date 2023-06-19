@@ -1,6 +1,5 @@
 // Remote process IAT parser
 // Date: 2021-11-20
-// Author: hmsec
 
 #include <iostream>
 #include <Windows.h>
